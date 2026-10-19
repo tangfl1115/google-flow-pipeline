@@ -1,0 +1,15 @@
+{
+  "entity_name": "@teacher",
+  "display_name": "自然科學老師",
+  "category": "Characters",
+  "visual_anchor": {
+    "style": "tactile stop-motion claymation, Aardman and Laika puppet aesthetics",
+    "description": "Friendly Asian male science teacher clay figure in his late 30s, sturdy build, round face, neat spiky black hair, friendly almond eyes with double eyelids, 100% clean-shaven (no beard, no stubble), no glasses, wearing miniature open white lab coat over warm beige cable-knit sweater with beige khaki trousers."
+  },
+  "voice_model": {
+    "language": "zh-TW",
+    "voice_preset": "Taiwanese Male Educator",
+    "customization_prompt": "Warm, enthusiastic, natural, approachable Taiwanese Mandarin male voice with energetic educational cadence, gentle breathing pauses at punctuation marks, and clear diction.",
+    "ideal_speaking_rate": "120-140 words per minute (22-26 Chinese characters per 10-second shot)"
+  }
+}

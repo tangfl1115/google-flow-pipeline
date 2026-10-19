@@ -1,0 +1,35 @@
+{
+  "project_name": "sample_science_storyboard",
+  "title": "範例科學短影音分鏡劇本",
+  "intro_duration": 2.0,
+  "default_model": "omni-1.1-flash",
+  "character_anchor": "@teacher",
+  "shots": [
+    {
+      "shot_id": "M01",
+      "duration": 10.0,
+      "camera_motion": "Cinematic slow push-in (dolly in / smooth zoom in)",
+      "start_frame_path": "keyframes/KF_01.jpg",
+      "end_frame_path": "keyframes/KF_02.jpg",
+      "visual_prompt": "Cinematic slow push-in toward @teacher standing in cozy wooden laboratory, gesturing warmly toward glowing science experiment on table. Masterpiece claymation, warm studio key lighting.",
+      "voice_prompt": "大家好！今天帶大家解鎖 Google Flow，做 60 秒黏土動畫的秘密！",
+      "subtitles": [
+        { "text": "大家好！今天帶大家解鎖 Google Flow，", "fraction": 0.5 },
+        { "text": "做 60 秒黏土動畫的秘密！", "fraction": 0.5 }
+      ]
+    },
+    {
+      "shot_id": "M02",
+      "duration": 10.0,
+      "camera_motion": "Smooth lateral camera tracking right",
+      "start_frame_path": "keyframes/KF_02.jpg",
+      "end_frame_path": "keyframes/KF_03.jpg",
+      "visual_prompt": "Smooth lateral tracking shot along lab desk showing science glassware and apparatus. Tactile claymation finish.",
+      "voice_prompt": "傳統 AI 影片最怕畫面跳變破圖，但我們只要用接龍，就能完全克服！",
+      "subtitles": [
+        { "text": "傳統 AI 影片最怕畫面跳變破圖，", "fraction": 0.5 },
+        { "text": "但我們只要用接龍，就能完全克服！", "fraction": 0.5 }
+      ]
+    }
+  ]
+}
